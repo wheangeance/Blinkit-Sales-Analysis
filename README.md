@@ -1,4 +1,4 @@
-![Screenshot 2024-11-25 184421](https://github.com/user-attachments/assets/c07e0353-02ce-4d72-8e41-fa76a48b776c)# Blinkit Sales Analysis: Unlocking Insights with Excel Dashboards
+# Blinkit Sales Analysis: Unlocking Insights with Excel Dashboards
 
 ![Screenshot 2024-11-25 184954](https://github.com/user-attachments/assets/ef6592c6-7763-48ab-bc69-aa2bf3595fed)
 
@@ -52,24 +52,35 @@ Key metrics included:
 
 ### From the Analysis:
 1. **Top-Selling Product Types**:
+   
    ![Screenshot 2024-11-25 184402](https://github.com/user-attachments/assets/bf879d15-bb25-482c-ab68-2287dfe42679)
+   
    - Fruits and Vegetables contributed **$178.1K** to sales.
    - Household items and Snack Foods were also top contributors.
    
-2. **Outlet Size Performance**:
+3. **Outlet Size Performance**:
+   
    ![Screenshot 2024-11-25 184409](https://github.com/user-attachments/assets/18f87918-2f9e-4f76-86ae-49e14d2edee0)
+   
     - Large outlets generated **42% of total sales**, outperforming medium and small outlets.
-3. **Oulet Type Sales Trends**:
+5. **Oulet Type Sales Trends**:
+   
      ![Screenshot 2024-11-25 184842](https://github.com/user-attachments/assets/bebf02ef-c76c-43f4-a2be-5c70b2fd1ce2)
+   
 
-4. **Customer Preferences**:
+7. **Customer Preferences**:
+   
    ![Screenshot 2024-11-25 184346](https://github.com/user-attachments/assets/57062f5d-8c31-48b5-9990-bd5ac087d652)
+   
    - Regular-fat products were more popular, contributing **65% of sales**.
 
-5. **Regional Trends**:
+9. **Regional Trends**:
+    
    ![Screenshot 2024-11-25 184421](https://github.com/user-attachments/assets/5f8c0176-8f74-4d21-8498-b78dafabab79)
+   
    - Tier 1 cities led with **$472.1K in sales**, followed by Tier 2 and Tier 3 cities.
-6. **Outlet Establishment Year Sales Trends**:
+11. **Outlet Establishment Year Sales Trends**:
+    
    ![Screenshot 2024-11-25 194244](https://github.com/user-attachments/assets/8620214d-815c-4d6d-a5c6-bcfe6ce37235)
 
 ---
