@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis: Unlocking Insights with Excel Dashboards
+# Blinkit Sales Analysis: Insights with Excel Dashboard
 
 ![Screenshot 2024-11-25 184954](https://github.com/user-attachments/assets/ef6592c6-7763-48ab-bc69-aa2bf3595fed)
 
